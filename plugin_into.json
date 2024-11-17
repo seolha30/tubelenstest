@@ -1,0 +1,7 @@
+{
+    "name": "테스트 플러그인",
+    "version": "1.0",
+    "description": "튜브렌즈 플러그인 테스트용",
+    "author": "seolha30",
+    "min_app_version": "1.0"
+}
