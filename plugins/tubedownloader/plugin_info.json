@@ -1,0 +1,8 @@
+{
+    "name": "YouTube Downloader",
+    "version": "1.0",
+    "description": "YouTube 영상/음원 다운로더",
+    "author": "seolha",
+    "main": "youtube_downloader.py",
+    "auto_start": true
+}
